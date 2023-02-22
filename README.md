@@ -1,5 +1,5 @@
 # Weclome To JinxPS!
-- A certain private server for a certain anime game.
+A certain private server for a certain anime game.
 
 ## JinxPS Info
 - GC Version : 1.4.6
@@ -7,7 +7,6 @@
 
 ## Credits
 - [NickTheHuy](https://github.com/NickTheHuy) - 3.4 Proto 
-- [YuukiPS](https://discord.gg/yuukips) - 3.4 Res
 - [Grasscutter](https://github.com/Grasscutters/Grasscutter) — Anime Game Private Server
 - [NoM0ra](https://github.com/NoM0ra) — Emotional Support
 - [mailpakokok](https://github.com/mailpakokok) — Teach
@@ -26,4 +25,3 @@
 ## Useful Resources
 - [Acrepi](https://discord.gg/acrepi)
 - [Unity Gradient Maker](https://kanatimc.github.io/Unity-Gradient-Maker/)
-- [JinxPS Discord](https://discord.gg/wN82EzesKq)
