@@ -1,5 +1,6 @@
-# Weclome To JinxPS!
+# [Discontinued] Weclome To JinxPS!
 A certain private server for a certain anime game.
+- This repository has ben discontinued and will not update, It will be open for read so you may update it yourself.
 
 ## JinxPS Info
 - GC Version : 1.4.6
